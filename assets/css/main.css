@@ -12,15 +12,18 @@
 /* Fonts */
 :root {
   --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --font-primary: "Inter", sans-serif;
+  --font-primary: "Inter", Roboto;
   --font-secondary: "Poppins", sans-serif;
 }
 
 /* Colors */
 :root {
+  /* --color-default: #17C3B2;
+  --color-primary: #227C9D;
+  --color-secondary: #D17A22; */
   --color-default: #0a0d13;
   --color-primary: #0d42ff;
-  --color-secondary: #0e1d34;
+  --color-secondary: #0e1d34; 
 }
 
 /* Smooth scroll behavior */
